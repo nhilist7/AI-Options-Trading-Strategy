@@ -1,4 +1,4 @@
-# 🧠 ICICIdirect Breeze Live Options Trading Bot
+#  ICICIdirect Breeze Live Options Trading Bot
 
 This repository contains a **Python-based live options trading bot** that uses **ICICIdirect's BreezeConnect API** for real-time execution. The strategy is based on a combination of **RSI**, **Supertrend**, and **Volume Spike** to generate directional option buying signals on NIFTY.
 
